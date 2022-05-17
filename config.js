@@ -1,3 +1,13 @@
+/*
+Big Thanks To:
+@LynnXzy
+@Hyzer ( Admin Shiro Botz )
+@Nurutomo ( Admin wabot-aq )
+@Ariffb ( Admin Stikerin )
+@Benniismael ( Admin BOTSTYLE )
+@David
+Dan Yang Telah Menyelesaikan Script Ini
+*/
 let fs = require('fs')
 let chalk = require('chalk')
 
@@ -92,3 +102,5 @@ fs.watchFile(file, () => {
   delete require.cache[file]
   require(file)
 })
+
+// Jangan Hapus Thanks Woi..
