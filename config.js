@@ -83,7 +83,7 @@ global.thumbfoto = 'https://i.ibb.co/ZLxBtr4/08a25e119b58f9eb3fe89e80110bf2fd.jp
 global.image = 'https://telegra.ph/file/8862875cbcfdfe32e5103.jpg'
 
 // Boleh Di Ubah
-global.image = https://up.rzkyfdlh.tech/file/VIws518Qfses.jpg'
+global.image = 'https://up.rzkyfdlh.tech/file/VIws518Qfses.jpg'
 global.bank = 'https://telegra.ph/file/d5ddf4cc627bb0e6bc420.jpg'
 global.kandang = 'https://telegra.ph/file/67a6ee607d03a4e52757d.jpg'
 global.kolam = 'https://telegra.ph/file/5aa5dfa3394477e11fb18.jpg'
