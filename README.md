@@ -65,7 +65,7 @@ Off in web nya
 
 ## `THANKS TO`
 
-- Allah SWT.
+- Tuhan YME.
 - My parents
 - All Friends
 - All Contributors
