@@ -24,13 +24,13 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/davidpangrib001/Hyzer-V3/edit/master/OneBotZ.json)
+[`Click Here`](https://github.com/davidpangrib001/One.V4/edit/main/OneBotZ.json)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
-- Owner name [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
-- Botname [Here](https://github.com/zeeone-ofc/Alphab0t/blob/v15/settings.json#L1)
+- Nomor Owner [Here](https://github.com/davidpangrib001/One.V4/edit/main/config.js)
+- Apikey [Here](https://github.com/davidpangrib001/One.V4/edit/main/config.js)
+- Watermark [Here](https://github.com/davidpangrib001/One.V4/edit/main/config.js)
 
 ## `CHANGE DYNO`
 
